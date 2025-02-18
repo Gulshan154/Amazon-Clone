@@ -131,7 +131,7 @@ font-weight: 700;
 
 /* HERO Section */
 .hero-section{
-    background-image: url(Amazon-Clone/hero_image (1).jpg);
+    background-image: url(hero_image\ \ (1)\.jpg);
     background-size: cover;
     height: 380px ;
     display: flex;
